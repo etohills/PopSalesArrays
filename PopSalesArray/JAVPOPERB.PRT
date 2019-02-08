@@ -1,0 +1,26 @@
+DATE: 02/07/2019                                    Albia Soccer Club Fundraiser                                            Page: 1
+JAVETO05                                                ONeill----   DIVISION
+                                                            Error Report 
+ERROR RECORD                                                            ERROR DESCRIPTION
+
+               Nash           1752 Walnut StrWashingtonMI7184090250401C last name can't be blank
+
+Jimenez                       0686 Valley RoaSouthingtoIA2489835230103E first name can't be balnk
+
+Chambers       Layton                        Ventura   NE8065280580201B address can't be blank
+
+Joseph         Ricardo        7678 Lincoln StHaines      3723809560501A state choices are IA, IL, MI, MO, NE, WI
+
+Decker         Rafael         3843 Smith StreLake WalesIAB9B3766840101C zip needs to be numeric
+
+Pham           Zaiden         9230 Eagle RoadTelluride IA0611218680701C Pop choices are 1 to 6
+
+Hodges         Josiah         5475 Summer StrLake WalesMI128679936010DC Cases need to be numeric
+
+Brady          Max            3968 Lincoln StLargo     IA9859504360500A cases need to be greater than 1
+
+Chen           Adriel         6440 Church StrHamden    MI2346755440601Y Team choices are A to E
+
+Barker         Esteban        0775 Smith Stre          IA3468651230101A city can't be blank
+
+Total Errors: 10
